@@ -1,5 +1,5 @@
 {
-    "name": "executable-to-start-a-nodejs-application",
+    "name": "executable-to-run-a-node-project",
     "version": "0.0.0",
     "dependencies": {
         "pkg": "4"
