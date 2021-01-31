@@ -1,0 +1,12 @@
+{
+    "name": "executable-to-start-a-nodejs-application",
+    "version": "0.0.0",
+    "dependencies": {
+        "pkg": "4"
+    },
+    "bin": "./src/main.js",
+    "scripts": {
+        "build": "pkg . --output=\"./bin/---PROJECT_NAME\" --targets=\"host\""
+    },
+    "license": "MIT"
+}
